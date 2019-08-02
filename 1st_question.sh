@@ -1,5 +1,5 @@
 # week1-assignmnt
-Create a file in a folder with user's name
+#Create a file in a folder with user's name
 #!/bin/sh
 echo  "hello what is your name.."
 read san
